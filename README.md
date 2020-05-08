@@ -1,2 +1,3 @@
 # Delirium prediction models
-This is a repository for delirium prediction and detection using eICU dataset as the training set and externally validated on MIMIC
+
+This repository is a placeholder for the code described in "Delirium prediction in critically ill patients with implementation oriented parameters" manuscript".
